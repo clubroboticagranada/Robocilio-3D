@@ -67,3 +67,12 @@ Esta entrada al repositorio se creó el da 26 de octubre de 2018.
 
 ## **Enlaces**
 Esta información también está disponible en [Thingiverse](https://www.thingiverse.com/thing:1305265)
+
+## **Autor**<a name="id100"></a>
+
+[Federico Coca Caba](https://github.com/fgcoca)
+
+## **Licencia**<a name="id101"></a>
+![License][88]
+
+ [88]: https://github.com/fgcoca/Robocilio-3D/blob/master/Images/licencia.png
