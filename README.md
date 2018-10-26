@@ -76,3 +76,5 @@ Esta información también está disponible en [Thingiverse](https://www.thingiv
 ![License][88]
 
  [88]: https://github.com/fgcoca/Robocilio-3D/blob/master/Images/licencia.png
+ 
+ [Enlace](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/LICENSE)
